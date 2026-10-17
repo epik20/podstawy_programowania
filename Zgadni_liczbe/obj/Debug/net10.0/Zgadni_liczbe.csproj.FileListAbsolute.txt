@@ -1,0 +1,14 @@
+c:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\Zgadni_liczbe.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\Zgadni_liczbe.AssemblyInfoInputs.cache
+c:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\Zgadni_liczbe.AssemblyInfo.cs
+c:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\Zgadni_liczbe.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\bin\Debug\net10.0\Zgadni_liczbe.exe
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\bin\Debug\net10.0\Zgadni_liczbe.deps.json
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\bin\Debug\net10.0\Zgadni_liczbe.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\bin\Debug\net10.0\Zgadni_liczbe.dll
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\bin\Debug\net10.0\Zgadni_liczbe.pdb
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\Zgadni_liczbe.dll
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\refint\Zgadni_liczbe.dll
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\Zgadni_liczbe.pdb
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\Zgadni_liczbe.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia\Podstawy programowania\Zgadni_liczbe\obj\Debug\net10.0\ref\Zgadni_liczbe.dll
