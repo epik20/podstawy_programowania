@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Zgadni_liczbe\\Zgadni_liczbe.csproj",
+      "projectUniqueName": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Zgadni_liczbe\\Zgadni_liczbe.csproj",
       "projectName": "Zgadni_liczbe",
-      "projectPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Zgadni_liczbe\\Zgadni_liczbe.csproj",
+      "projectPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Zgadni_liczbe\\Zgadni_liczbe.csproj",
       "packagesPath": "C:\\Users\\s37398\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Zgadni_liczbe\\obj\\",
+      "outputPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Zgadni_liczbe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s37398\\AppData\\Roaming\\NuGet\\NuGet.Config"

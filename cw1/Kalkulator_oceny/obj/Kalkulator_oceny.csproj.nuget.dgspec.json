@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Kalkulator_oceny\\Kalkulator_oceny.csproj": {}
+    "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Kalkulator_oceny\\Kalkulator_oceny.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Kalkulator_oceny\\Kalkulator_oceny.csproj": {
+    "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Kalkulator_oceny\\Kalkulator_oceny.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Kalkulator_oceny\\Kalkulator_oceny.csproj",
+        "projectUniqueName": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Kalkulator_oceny\\Kalkulator_oceny.csproj",
         "projectName": "Kalkulator_oceny",
-        "projectPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Kalkulator_oceny\\Kalkulator_oceny.csproj",
+        "projectPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Kalkulator_oceny\\Kalkulator_oceny.csproj",
         "packagesPath": "C:\\Users\\s37398\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\Kalkulator_oceny\\obj\\",
+        "outputPath": "C:\\Users\\s37398\\Desktop\\Github\\podstawy_programowania\\cw1\\Kalkulator_oceny\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37398\\AppData\\Roaming\\NuGet\\NuGet.Config"
