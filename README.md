@@ -1,1 +1,3 @@
-# Podstawy Programowania PJATK 2026
+## Podstawy Programowania PJATK 2026
+
+# Struktura
