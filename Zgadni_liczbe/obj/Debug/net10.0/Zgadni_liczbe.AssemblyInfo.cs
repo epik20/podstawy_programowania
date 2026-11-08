@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zgadni_liczbe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7baaa42d5d965c4eac8f26b036bf94f927d5748")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa666bb5d7236e07059e2d45098740af22696f5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zgadni_liczbe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zgadni_liczbe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
