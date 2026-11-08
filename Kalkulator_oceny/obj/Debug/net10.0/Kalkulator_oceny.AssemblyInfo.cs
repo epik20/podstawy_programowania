@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kalkulator_oceny")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7baaa42d5d965c4eac8f26b036bf94f927d5748")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kalkulator_oceny")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kalkulator_oceny")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
