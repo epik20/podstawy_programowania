@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Program do sumowania kolejnych liczb");
-Console.WriteLine("Podaj liczbę: ");
+Console.Write("Podaj liczbę: ");
 
 // Pobranie liczby
 int num = int.Parse(Console.ReadLine());
