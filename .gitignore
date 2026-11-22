@@ -1,18 +1,3 @@
 # .NET build directories
 **/bin/
 **/obj/
-
-# Visual Studio
-.vs/
-*.user
-*.suo
-
-# JetBrains Rider
-.idea/
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
